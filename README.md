@@ -1,2 +1,11 @@
 # FreshFOC
-A repository for a small FOC (Field-Oriented Control) project including firmware, schematics, PCB files, and related notes.
+
+小型 FOC（磁场定向控制）项目，包含固件、硬件设计和项目笔记。
+
+## 目录结构
+
+- `firmware/` — 电机控制固件
+- `hardware/` — 原理图、PCB 与硬件资料
+- `note/` — 设计记录、调试笔记与参考资料
+- `tests/` — 测试代码与验证记录
+- `tools/` — 开发、构建或调试辅助工具
